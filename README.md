@@ -2,6 +2,10 @@
 
 자동차보험 지급보증 연장을 위한 추가 진단서 자동 생성기입니다.
 
+🔗 **배포 웹사이트**: [https://junesight.github.io/ta-cetification-maker-renewal/](https://junesight.github.io/ta-cetification-maker-renewal/)
+
+---
+
 ## 주요 기능
 1. **사고 발생일 설정**: 기본값으로 접속일 기준 4주 전(28일 전) 날짜가 자동 설정됩니다.
 2. **기본 4주 이후 치료 필요 기간 선택**: 2주, 3주, 4주 선택 가능 (기본값: 4주 선택).
